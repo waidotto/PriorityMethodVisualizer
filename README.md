@@ -1,2 +1,2 @@
 # PriorityMethodVisualizer
-A visualizer for Friedberg-Muchnik construction (a.k.a. finite injury priority method).
+A visualizer for the proof of the Friedberg-Muchnik Theorem with the finite injury priority method.
